@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pog102 🇱🇹</h1>
-<h3 align="center">I am passionate about Linux and I daily drive Arch with Hyrland</h3>
+<h3 align="center">I am passionate about Linux and I daily drive Arch with Hyprland</h3>
 
 - 👨‍💻 All of my projects are available here on Github
 
