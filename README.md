@@ -2,7 +2,6 @@
 <h3 align="center">I am passionate about Linux and I daily drive Arch with Hyprland</h3>
 
 - 👨‍💻 All of my projects are available here on Github
-- new
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
