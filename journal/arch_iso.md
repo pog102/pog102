@@ -1,2 +1,2 @@
 # My custom ISO
-I wanted my own iso when I plan on upgrading my laptop to a new one. I would need less time of configuring my own sistem though I have an install script.
+I wanted to have my own ISO for when I plan on upgrading to a new laptop. This way, I would need less time to configure my own system, even though I have an install script.
