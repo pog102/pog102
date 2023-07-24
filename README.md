@@ -19,7 +19,7 @@
   - Set up and configured Nginx
   - BitTorrent client (transmission)
 - [creating my own arch linux iso](/journal/arch_iso.md)
-- [creating my first community project (devify)](./journal/community_project.md)
+- [creating my first community project](./journal/community_project.md)
 <h2 align="center">My stats</h2>
 <p align="center">
 <img src="github-metrics.svg">
