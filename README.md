@@ -17,7 +17,7 @@
   - media services (jellyfin, photoprism )
   - cloud service (filebrowser)
   - Set up and configured Nginx
-  - torrent service (transmission)
+  - BitTorrent client (transmission)
 - [creating my own arch linux iso](/journal/arch_iso.md)
 - [creating my first community project (devify)](./journal/community_project.md)
 <h2 align="center">My stats</h2>
