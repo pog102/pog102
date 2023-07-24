@@ -16,6 +16,7 @@
 - learned hosting my own server
   - media services (jellyfin, photoprism )
   - cloud service (filebrowser)
+  - Set up and configured Nginx
 - creating my own arch linux iso
 - creating my first community project (devify)
 <h2 align="center">My stats</h2>
