@@ -13,13 +13,13 @@
 
 ## Milestones
 ### 2023
-- [learned hosting my own server](journal/learned hosting my own server)
+- [learned hosting my own server](./journal/learned hosting my own server)
   - media services (jellyfin, photoprism )
   - cloud service (filebrowser)
   - Set up and configured Nginx
   - torrent service (transmission)
-- [creating my own arch linux iso](journal/creating my own arch linux iso)
-- [creating my first community project (devify)](journal/creating my first community project (devify))
+- [creating my own arch linux iso](./journal/creating my own arch linux iso)
+- [creating my first community project (devify)](./journal/creating my first community project (devify))
 <h2 align="center">My stats</h2>
 <p align="center">
 <img src="github-metrics.svg">
