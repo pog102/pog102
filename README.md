@@ -22,5 +22,5 @@
 - [creating my first community project](./journal/community_project.md)
 <h2 align="center">My stats</h2>
 <p align="center">
-<img src="github-metrics.svg">
+![Metrics](https://metrics.lecoq.io/pog102?template=classic&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Europe%2FVilnius)
 </p>
